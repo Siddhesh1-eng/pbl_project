@@ -1,7 +1,7 @@
-# AI-Based Multi-Modal Examination Monitoring System
+ Examination Monitoring System
 
 ## 📌 Overview
-This project implements a real-time AI-based proctoring system using Computer Vision techniques.
+This project implements a real-time proctoring system using Computer Vision techniques.
 
 The system detects suspicious behavior during online examinations by analyzing:
 
@@ -45,5 +45,5 @@ The system detects suspicious behavior during online examinations by analyzing:
 
 ## 👨‍💻 Developed By
 
-Siddhesh  
+Siddhesh  Singh Parmar
 PBL – Computer Science Engineering
